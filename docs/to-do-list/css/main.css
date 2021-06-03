@@ -139,7 +139,7 @@ form {
   opacity: 0.4;
 }
 .list::placeholder{
-  color: var(--clr-light)
+  color: var(--clr-light);
 }
 .new:focus {
   border-bottom-width: 3px;
