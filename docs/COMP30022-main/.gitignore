@@ -1,0 +1,8 @@
+.dart_tool/
+.idea/
+build/
+*.log
+.flutter-plugins-dependencies
+.flutter-plugins
+macos/Flutter/GeneratedPluginRegistrant.swift
+.DS_Store
